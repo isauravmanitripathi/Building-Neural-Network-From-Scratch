@@ -1,3 +1,7 @@
+## Building Neural Network From Scratch
+I am trying to build an entire neural network from scratch. I am not using any advance libraries, just using the basics one,
+which already comes with JAVA. 
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
